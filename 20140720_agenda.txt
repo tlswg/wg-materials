@@ -1,0 +1,12 @@
+Sunday July 20, 2014 (TLS Interim Meeting)
+Mozilla Toronto
+Toronto, ON, Canada
+------
+10:00 - 10:15    Administrivia (Chairs)
+10:15 - 11:45    1RTT Handshake Flow (EKR)
+11:45 - 13:00    Lunch
+13:00 - 14:00    Renegotiation/rekey/client auth (MT)
+14:00 - 14:30    Content Type Encryption (DKG)
+14:30 - 14:45    Break
+14:45 - 15:30    SNI encryption (DKG)
+15:30 - 16:00	 Triple-Handshake (TBD)	
