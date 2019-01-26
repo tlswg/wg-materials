@@ -1,4 +1,7 @@
-wg-materials
-============
+# Working Group Materials
+This repository holds agendas, minutes, presentations and other materials for the IETF TLS Working Group.
 
-Here lies the agenda, presentation, and maybe the rough draft of the minutes for the TLS WG.
+# Contributing
+
+See the
+[guidelines for contributions](CONTRIBUTING.md).
