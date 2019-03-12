@@ -14,24 +14,43 @@
 
 *11:20-12:20 CET Monday Morning session II, Congress Hall 2 (LL)*
 
-### Administrivia
+### Administrivia (5 minutes)
 
 * 2 min - Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html)
 * 3 min - Agenda bashing
 
-### Identity-based signatures for TLS
+### Working Group Drafts (15 minutes)
 
-### Resumption across hostnames
+- [TLS 1.3 Extension for Certificate-based Authentication with an External Pre-Shared Key](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13-cert-with-extern-psk/)
 
-### 
+### Individual Drafts (40 minutes)
+
+- [TLS Client Network Address Extension](https://datatracker.ietf.org/doc/draft-kinnear-tls-client-net-address/)
+- [Importing External PSKs for TLS](https://datatracker.ietf.org/doc/draft-wood-tls-external-psk-importer/)
+- [TLS Resumption across Server Name Indications for TLS 1.3](https://datatracker.ietf.org/doc/draft-sy-tls-resumption-group/)
+- [Using Identity as Raw Public Key in Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)](https://datatracker.ietf.org/doc/draft-wang-tls-raw-public-key-with-ibc/)
 
 ## Monday, 26 March, 2019
 
 *16:10-18:10 CET Tuesday Afternoon session II, Congress Hall 2 (LL)*
 
-### Administrivia
+### Administrivia (5 minutes)
 
 * 2 min - Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html)
 * 3 min - Agenda bashing
 
-### TODO
+### Working Group Drafts (50 minutes)
+
+- [Deprecating TLS 1.0 and 1.1](https://datatracker.ietf.org/doc/draft-ietf-tls-oldversions-deprecate/)
+- [DTLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-dtls13/)
+- [Encrypted SNI](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/)
+- [Certificate Compression](https://datatracker.ietf.org/doc/draft-ietf-tls-certificate-compression/)
+- [Delegated Credentials](https://datatracker.ietf.org/doc/draft-ietf-tls-subcerts/)
+
+### Individual Drafts (65 minutes)
+
+- [OPAQUE and TLS 1.3](https://datatracker.ietf.org/doc/draft-sullivan-tls-opaque/)
+- [Hybrid Key Exchange](https://datatracker.ietf.org/doc/draft-stebila-tls-hybrid-design/)
+- [Compact TLS 1.3](https://datatracker.ietf.org/doc/draft-rescorla-tls-ctls/)
+- [TLS with CBOR Web Tokens (CWTs)](https://datatracker.ietf.org/doc/draft-tschofenig-tls-cwt/)
+- [Fake SNI Extension](https://datatracker.ietf.org/doc/draft-belyavskiy-fakesni/)
