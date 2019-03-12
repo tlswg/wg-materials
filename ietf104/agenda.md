@@ -12,7 +12,7 @@
 
 ## Monday, 25 March, 2019
 
-*11:20-12:20 CET Monday Morning session II, Congress Hall 2 (LL)*
+*11:20-12:20 CET Morning session II, Congress Hall 2 (LL)*
 
 ### Administrivia (5 minutes)
 
