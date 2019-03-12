@@ -30,7 +30,7 @@
 - [TLS Client Network Address Extension](https://datatracker.ietf.org/doc/draft-kinnear-tls-client-net-address/)
 - [Using Identity as Raw Public Key in Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)](https://datatracker.ietf.org/doc/draft-wang-tls-raw-public-key-with-ibc/)
 
-## Monday, 26 March, 2019
+## Tuesday, 26 March, 2019
 
 *16:10-18:10 CET Tuesday Afternoon session II, Congress Hall 2 (LL)*
 
