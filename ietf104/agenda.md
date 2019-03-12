@@ -25,9 +25,9 @@
 
 ### Individual Drafts (40 minutes)
 
-- [TLS Client Network Address Extension](https://datatracker.ietf.org/doc/draft-kinnear-tls-client-net-address/)
-- [Importing External PSKs for TLS](https://datatracker.ietf.org/doc/draft-wood-tls-external-psk-importer/)
 - [TLS Resumption across Server Name Indications for TLS 1.3](https://datatracker.ietf.org/doc/draft-sy-tls-resumption-group/)
+- [Importing External PSKs for TLS](https://datatracker.ietf.org/doc/draft-wood-tls-external-psk-importer/)
+- [TLS Client Network Address Extension](https://datatracker.ietf.org/doc/draft-kinnear-tls-client-net-address/)
 - [Using Identity as Raw Public Key in Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)](https://datatracker.ietf.org/doc/draft-wang-tls-raw-public-key-with-ibc/)
 
 ## Monday, 26 March, 2019
