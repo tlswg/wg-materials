@@ -39,7 +39,7 @@
 * 2 min - Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html)
 * 3 min - Agenda bashing
 
-### Working Group Drafts (50 minutes)
+### Working Group Drafts (65 minutes)
 
 - [Deprecating TLS 1.0 and 1.1](https://datatracker.ietf.org/doc/draft-ietf-tls-oldversions-deprecate/)
 - [DTLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-dtls13/)
@@ -47,7 +47,7 @@
 - [Certificate Compression](https://datatracker.ietf.org/doc/draft-ietf-tls-certificate-compression/)
 - [Delegated Credentials](https://datatracker.ietf.org/doc/draft-ietf-tls-subcerts/)
 
-### Individual Drafts (65 minutes)
+### Individual Drafts (50 minutes)
 
 - [OPAQUE and TLS 1.3](https://datatracker.ietf.org/doc/draft-sullivan-tls-opaque/)
 - [Hybrid Key Exchange](https://datatracker.ietf.org/doc/draft-stebila-tls-hybrid-design/)
