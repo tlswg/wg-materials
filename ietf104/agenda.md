@@ -44,6 +44,7 @@
 - [Deprecating TLS 1.0 and 1.1](https://datatracker.ietf.org/doc/draft-ietf-tls-oldversions-deprecate/)
 - [DTLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-dtls13/)
 - [Encrypted SNI](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/)
+  - (Optional) Update on A/AAAA divergence 
 - [Certificate Compression](https://datatracker.ietf.org/doc/draft-ietf-tls-certificate-compression/)
 - [Delegated Credentials](https://datatracker.ietf.org/doc/draft-ietf-tls-subcerts/)
 
