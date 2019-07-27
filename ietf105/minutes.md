@@ -6,7 +6,7 @@ CFRG working on PAKE selection;  integration with TLS is obviously important, co
 
 ## Delegated credentials
 
-Server side patch in boringSSL; NSS client side soon to be in FF nightly; FB work in progress
+Server side patch in BoringSSL; NSS client side soon to be in FF nightly; FB work in progress.
 
 Plan to drop LURK mention, remove PKCS#1 v1.5 (RSA PSS only). 
 
