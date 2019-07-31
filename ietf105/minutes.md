@@ -106,7 +106,7 @@ Nick Sullivan - not in favor of requirement because different domains will have 
 
 Chris Woo this is mostly a text issue
 
-Subodh Iyengar - hrr generator should be able to be different than entity that creates server hello
+Subodh Iyengar - hrr generator should not be able to be different than entity that creates server hello. We should fix this more generally
 
 Ekr - possible to not require, but it definitely leaks information
 
