@@ -22,6 +22,8 @@
 ### Working Group Drafts
 
 - [Importing External PSKs for TLS](https://datatracker.ietf.org/doc/draft-ietf-tls-external-psk-importer/)
+- [Exported Authenticators](https://datatracker.ietf.org/doc/draft-ietf-tls-exported-authenticator/)
+- [Delegated Credentials](https://datatracker.ietf.org/doc/draft-ietf-tls-subcerts/)
 
 ### Individual Drafts
 
