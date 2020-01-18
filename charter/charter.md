@@ -11,4 +11,4 @@ The second working group goal is to improve security, privacy, and deployability
 
 The third goal is to maintain current and previous version of the (D)TLS protocol as well as to specify general best practices for use of (D)TLS, extensions to (D)TLS, and cipher suites. This includes recommendations as to when a particular version should be deprecated. Changes or additions to older versions of (D)TLS whether via extensions or ciphersuites are discouraged and require significant justification to be taken on as work items.
 
-With these goals in mind, the working group will also place a priority in minimizing gratuitous changes to (D)TLS.
+The working group will also place a priority in minimizing gratuitous changes to (D)TLS.
