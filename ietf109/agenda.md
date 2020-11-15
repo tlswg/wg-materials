@@ -30,7 +30,9 @@ https://codimd.ietf.org/notes-ietf-109-tls
 
 ### Drafts
 
-TLS ECH (50 minutes)
+DTLS CID resolution (10 minutes)
+
+TLS ECH (40 minutes)
 https://datatracker.ietf.org/doc/draft-ietf-tls-esni/
 
 Implementation targets discussion (10 minutes)
