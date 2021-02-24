@@ -25,4 +25,5 @@
 
 #### Individual documents
 
+* Deprecating FFDH(E) Ciphersuites in TLS ([draft-bartle-tls-deprecate-ffdhe-00](https://cbartle891.github.io/draft-deprecate-ffdhe/draft-bartle-tls-deprecate-ffdhe.html)) -- Carrick Bartle
 * TLS Proof of Knowledge ([draft-friel-tls-eap-dpp-01](https://tools.ietf.org/html/draft-friel-tls-eap-dpp-01)) -- Owen Friel
