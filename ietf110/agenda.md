@@ -13,7 +13,7 @@
 
 * Scribe Selection / [Note Well](https://www.ietf.org/about/note-well.html)
 * Agenda Bashing
-* Hackathon Results
+* Interop Runner
 
 ### Presentations
 
@@ -27,3 +27,4 @@
 
 * Deprecating FFDH(E) Ciphersuites in TLS ([draft-bartle-tls-deprecate-ffdhe-00](https://cbartle891.github.io/draft-deprecate-ffdhe/draft-bartle-tls-deprecate-ffdhe.html)) -- Carrick Bartle
 * TLS Proof of Knowledge ([draft-friel-tls-eap-dpp-01](https://tools.ietf.org/html/draft-friel-tls-eap-dpp-01)) -- Owen Friel
+* OPAQUE-TLS ([draft-sullivan-tls-opaque](https://datatracker.ietf.org/doc/draft-sullivan-tls-opaque/)) -- Sofía Celi
