@@ -19,12 +19,13 @@
 
 ## WG draft updates
 
-- cTLS (https://datatracker.ietf.org/doc/draft-ietf-tls-ctls/)
-- Hybrid Key Exchange (https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/)
-- ECH (https://datatracker.ietf.org/doc/draft-ietf-tls-esni/)
+- [cTLS](https://datatracker.ietf.org/doc/draft-ietf-tls-ctls/)
+- [Hybrid Key Exchange](https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/)
+- [Encrypted Client Hello](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/)
 
 ## New Work / Presentations
 
-- Deprecating Obsolete Key Exchange Mechanisms in TLS (https://datatracker.ietf.org/doc/draft-aviram-tls-deprecate-obsolete-kex/)
-- Auth-KEM (https://datatracker.ietf.org/doc/draft-celi-wiggers-tls-authkem/)
-- Bootstrapped TLS Authentication (https://datatracker.ietf.org/doc/html/draft-friel-tls-eap-dpp-03)
+- [Deprecating Obsolete Key Exchange Mechanisms in TLS](https://datatracker.ietf.org/doc/draft-aviram-tls-deprecate-obsolete-kex/)
+- [Auth-KEM](https://datatracker.ietf.org/doc/draft-celi-wiggers-tls-authkem/)
+- [Bootstrapped TLS Authentication](https://datatracker.ietf.org/doc/html/draft-friel-tls-eap-dpp-03)
+- [Secure Negotiation of Incompatible Protocols in TLS](https://datatracker.ietf.org/doc/draft-thomson-tls-snip/)
