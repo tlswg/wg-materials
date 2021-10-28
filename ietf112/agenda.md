@@ -28,4 +28,4 @@
 - [PEM-ECH](https://datatracker.ietf.org/doc/draft-farrell-tls-pemesni/) and [well-known ECH URI](https://datatracker.ietf.org/doc/draft-farrell-tls-wkesni/)
 - [The Pseudorandom Extension for cTLS](https://datatracker.ietf.org/doc/draft-cpbs-pseudorandom-ctls/)
 - [KEM-based Authentication for TLS 1.3](https://datatracker.ietf.org/doc/draft-celi-wiggers-tls-authkem/)
-- [TLS ZKP](#)
+- [Zero-Knowledge Proofs meet TLS](#)
