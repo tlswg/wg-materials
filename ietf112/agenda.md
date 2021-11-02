@@ -20,6 +20,7 @@
 ## Working Group Drafts
 
 - [Exported Authenticators](https://datatracker.ietf.org/doc/draft-ietf-tls-exported-authenticator/)
+- [TLS Flags](https://datatracker.ietf.org/doc/draft-ietf-tls-tlsflags/)
 - [8446bis](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8446bis/)
 - [ECH Implementation Status and Notes](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/)
 
