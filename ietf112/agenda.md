@@ -17,16 +17,17 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-## Working Group Drafts
+## Working Group Drafts (40 minutes)
 
 - [Exported Authenticators](https://datatracker.ietf.org/doc/draft-ietf-tls-exported-authenticator/)
 - [TLS Flags](https://datatracker.ietf.org/doc/draft-ietf-tls-tlsflags/)
 - [8446bis](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8446bis/)
-- [ECH Implementation Status and Notes](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/)
+- [ECH Implementation Status Update](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/)
 
-## Individual Drafts and New Work
+## Individual Drafts and New Work (75 minutes)
 
+- [RFC8447bis](https://datatracker.ietf.org/doc/draft-salowey-tls-rfc8447bis/)
 - [PEM-ECH](https://datatracker.ietf.org/doc/draft-farrell-tls-pemesni/) and [well-known ECH URI](https://datatracker.ietf.org/doc/draft-farrell-tls-wkesni/)
 - [The Pseudorandom Extension for cTLS](https://datatracker.ietf.org/doc/draft-cpbs-pseudorandom-ctls/)
 - [KEM-based Authentication for TLS 1.3](https://datatracker.ietf.org/doc/draft-celi-wiggers-tls-authkem/)
-- [Zero-Knowledge Proofs meet TLS](#)
+- [Zero-Knowledge Proofs meet TLS](https://eprint.iacr.org/2021/1022.pdf)
