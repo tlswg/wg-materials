@@ -21,6 +21,7 @@
 
 - [Exported Authenticators](https://datatracker.ietf.org/doc/draft-ietf-tls-exported-authenticator/)
 - [TLS Flags](https://datatracker.ietf.org/doc/draft-ietf-tls-tlsflags/)
+- [DTLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-dtls13/)
 - [8446bis](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8446bis/)
 - [ECH Implementation Status Update](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/)
 
