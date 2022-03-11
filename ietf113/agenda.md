@@ -17,14 +17,15 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-## Working Group Drafts (60 minutes)
+## Working Group Drafts (70 minutes)
 
 - [cTLS](https://datatracker.ietf.org/doc/draft-ietf-tls-ctls/)
 - [RFC8447bis](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8446bis/)
 - [Secure Negotiation of Incompatible Protocols in TLS](https://datatracker.ietf.org/doc/draft-ietf-tls-snip/)
+- [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/)
 - [ECH update](#)
 
-## Individual Drafts and New Work (55 minutes)
+## Individual Drafts and New Work (45 minutes)
 
 - [Deprecating Obsolete Key Exchange Methods in TLS](https://datatracker.ietf.org/doc/draft-aviram-tls-deprecate-obsolete-kex/)
 - [Suppressing CA Certificates in TLS 1.3](https://datatracker.ietf.org/doc/draft-kampanakis-tls-scas-latest/)
