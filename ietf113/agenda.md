@@ -23,7 +23,7 @@
 - [RFC8447bis](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8446bis/)
 - [Secure Negotiation of Incompatible Protocols in TLS](https://datatracker.ietf.org/doc/draft-ietf-tls-snip/)
 - [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/)
-- [ECH update](#)
+- [ECH update](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/)
 
 ## Individual Drafts and New Work (45 minutes)
 
