@@ -1,6 +1,6 @@
-TLS IETF 113
+# TLS @ IETF 113
 
-# cTLS presented by ekr:
+## cTLS presented by ekr:
 
 Close to done
 
@@ -26,19 +26,19 @@ Ekr: we should develop this together.(?)
 
 Richard: dont have lot of stake in this fight. Would be good to have validation of this.
 
-# RFC 8446bis presented by ekr:
+## RFC8446bis presented by ekr:
 
 Martin: very happy to say 1 error code for PSK
 
 Sean Turner: on next version next month, we will issues WGLC
     
-# SNIP Status presented by Martin Thomson
+## SNIP Status presented by Martin Thomson
 
 Martin: Looking for implementations, especially server side
 
 Sean: thanks for work.
     
-# Hybrid Key Exchange presented by (no one yet, douglas not in the room):
+## Hybrid Key Exchange presented by (no one yet, douglas not in the room):
 
 ekr: can we rename it, now we have Hybrid Public Key Exchange - names are confusing.
 
@@ -46,7 +46,7 @@ Martin: you mean Hybrid Public Key Encryption?
 
 ekr: totally fair.
     
-# ECH update by Vincent Cheval
+## ECH update by Vincent Cheval
 
 Ekr: amazing work. can you clarify (some options disabled)?
 
@@ -62,7 +62,7 @@ Vincent: it is available in github, ongoing work to publication to CCS(?).
 
 Stphen Farrell: there is assumption same ECH is in use for ECH1(?) and ECH2(?)? These are read from DNS and could differ due to DNS cache? Might want to write down assumptions here so people know what not to do with DNS.
     
-# Hybrid Key Exchange in TLS 1.3 by Douglas Stebila
+## Hybrid Key Exchange in TLS 1.3 by Douglas Stebila
 
 Martin: "we are not making changes to the document"?
 
@@ -96,7 +96,7 @@ Nicholas Gajcowski: It is not very specific on re-use of ephemeral key which is 
 
 Douglas: doc does not prohibit re-using ephemeral key reuse because TLS 1.3 does not forbid it. doc does state ..... re-use is forbidden.
         
-# Deprecating Obsolete Key Exchange Methods in TLS presented by Nimrod Aviram
+## Deprecating Obsolete Key Exchange Methods in TLS presented by Nimrod Aviram
 
 Yoav Nir: conversation in jabber room, looks like update to RFC .... This is for TLS 1.2 and lower since 1.3 already deprecated these. UTA has already done an RFC for this (on how to use TLS 1.2 when needed).
 
@@ -104,10 +104,10 @@ David Benjamin: we have deprecrated things in this WG. It could be done here. Th
 
 Yaron Sheffer: RFC 7525, yes we had duplication of work between TLS and UTA. In some cases it was up to TLS to deprecate earlier versions of TLS but for anything other it would have been better if we had done the work once. The right venue for this is UTA, with 7525bis.
     
-# draft-kampanakis-tls-scas-latest presented by Panos:
+## draft-kampanakis-tls-scas-latest presented by Panos:
 
 David Benjamin: won't work for current webpki - assumes list is pushed and always up to date.
 
-# draft-AuthKEM by Thom Wiggers
+## draft-AuthKEM by Thom Wiggers
 
 (no questions)
