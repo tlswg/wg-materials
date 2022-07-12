@@ -25,6 +25,3 @@
 - [IANA Registry Updates for TLS and DTLS](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8447bis/)
 - [A Flags Extension for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tlsflags/) - [last outstanding PR](https://github.com/tlswg/tls-flags/pull/22)
 
-## Individual Drafts and New Work (45 minutes)
-
-- XXX
