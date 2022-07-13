@@ -25,3 +25,4 @@
 - [IANA Registry Updates for TLS and DTLS](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8447bis/)
 - [Deprecating Obsolete Key Exchange Methods in TLS](https://datatracker.ietf.org/doc/draft-ietf-tls-deprecate-obsolete-kex/)
 - [A Flags Extension for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tlsflags/) - [last outstanding PR](https://github.com/tlswg/tls-flags/pull/22)
+- Revisiting expired drafts (led by chairs)
