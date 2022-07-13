@@ -18,10 +18,10 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-## Working Group Drafts (70 minutes)
+## Working Group Drafts (Remaining time)
 
 - [cTLS](https://datatracker.ietf.org/doc/draft-ietf-tls-ctls/)
 - [A well-known URI for publishing ECHConfigList values](https://datatracker.ietf.org/doc/draft-farrell-tls-wkesni/)
 - [IANA Registry Updates for TLS and DTLS](https://datatracker.ietf.org/doc/draft-ietf-tls-rfc8447bis/)
+- [Deprecating Obsolete Key Exchange Methods in TLS](https://datatracker.ietf.org/doc/draft-ietf-tls-deprecate-obsolete-kex/)
 - [A Flags Extension for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tlsflags/) - [last outstanding PR](https://github.com/tlswg/tls-flags/pull/22)
-
