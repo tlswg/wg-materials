@@ -18,7 +18,7 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-## Working Group Drafts (Remaining time)
+## Working Group Drafts (95 minutes)
 
 - [cTLS](https://datatracker.ietf.org/doc/draft-ietf-tls-ctls/)
 - [A well-known URI for publishing ECHConfigList values](https://datatracker.ietf.org/doc/draft-farrell-tls-wkesni/)
@@ -26,3 +26,8 @@
 - [Deprecating Obsolete Key Exchange Methods in TLS](https://datatracker.ietf.org/doc/draft-ietf-tls-deprecate-obsolete-kex/)
 - [A Flags Extension for TLS 1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tlsflags/) - [last outstanding PR](https://github.com/tlswg/tls-flags/pull/22)
 - Revisiting expired drafts (led by chairs)
+
+## Individual Drafts and Presentations (20 minutes)
+
+- [Using Attestation in Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)
+- [NIST PQC Announcement](#) (delivered by Sofí Celi and Thom Wiggers)
