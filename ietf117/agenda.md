@@ -16,7 +16,7 @@
 
 ## Administrivia (5 minutes)
 
-* Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
+* Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html)
 * Agenda revision
 
 ## Working Group Drafts (60 minutes)
@@ -24,7 +24,8 @@
 - [A well-known URI for publishing ECHConfigList values](https://datatracker.ietf.org/doc/draft-ietf-tls-wkech/), _Stephen Farrell_, 15 minutes
 - [ECH deployment update](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/), _XXX_, 30 minutes
 
-## Individual Drafts (Remaining Time)
+## Individual Drafts and Presentations (Remaining Time)
 
 - [Abridged Compression for WebPKI Certificates](https://datatracker.ietf.org/doc/draft-jackson-tls-cert-abridge/), _Dennis Jackson, 20 minutes
 - [TLS 1.2 is Frozen](https://datatracker.ietf.org/doc/draft-rsalz-tls-tls12-frozen/), _Rich Salz_, 15 minutes
+- PQ Signature Scheme update from NIST, _Bas Westerbaan_, 15 minutes
