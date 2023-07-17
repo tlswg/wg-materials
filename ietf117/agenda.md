@@ -28,4 +28,4 @@
 
 - [Abridged Compression for WebPKI Certificates](https://datatracker.ietf.org/doc/draft-jackson-tls-cert-abridge/), _Dennis Jackson, 20 minutes
 - [TLS 1.2 is Frozen](https://datatracker.ietf.org/doc/draft-rsalz-tls-tls12-frozen/), _Rich Salz_, 15 minutes
-- PQ Signature Scheme update from NIST, _Bas Westerbaan_, 15 minutes
+- Update on post-quantum signatures (from NIST), _Bas Westerbaan and Thom Wiggers_, 15 minutes
