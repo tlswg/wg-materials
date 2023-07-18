@@ -22,7 +22,7 @@
 ## Working Group Drafts (60 minutes)
 
 - [A well-known URI for publishing ECHConfigList values](https://datatracker.ietf.org/doc/draft-ietf-tls-wkech/), _Stephen Farrell_, 15 minutes
-- [ECH deployment update](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/), _XXX_, 30 minutes
+- [ECH deployment update](https://datatracker.ietf.org/doc/draft-ietf-tls-esni/), _Dennis Jackson_, 30 minutes
 
 ## Individual Drafts and Presentations (Remaining Time)
 
